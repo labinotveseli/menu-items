@@ -18,5 +18,5 @@ This is a vanilla JavaScript application designed to view and select items withi
 <p align="center">
 <b>Application that enables menu selection in some specific categories. The app looks as below:</b>
 <hr>
-<img src="https://i.postimg.cc/brCqmjfp/menu-items.jpg" height="80%" width="80%" alt="Home"/>
+<img src="https://i.postimg.cc/brCqmjfp/menu-items.jpg" height="100%" width="100%" alt="Home"/>
 <hr>
