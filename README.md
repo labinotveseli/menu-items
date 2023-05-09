@@ -12,7 +12,7 @@ This is a vanilla JavaScript application designed to view and select items withi
 <h2>Website walk-through:</h2>
 
 <b>You can try the Demo of this website here:</b> 
-  - [Menu Items](https://barbershop-app.netlify.app/)
+  - [Menu Items](https://js-menu-items.netlify.app/)
 
 <hr>
 <p align="center">
